@@ -32,6 +32,11 @@
 
 ---
 
+### 📚 Em estudos
+> ASP.Net/Blazor
+
+---
+
 ### 📊 Estatísticas
 <div align="center">
   <img 
