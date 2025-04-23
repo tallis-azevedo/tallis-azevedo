@@ -67,7 +67,7 @@
 > Aplicação com finalidade de realizar operações matemáticas com horas, minutos e segundos, sendo elas, adição e subtração.  
 > Pequeno projeto desenvolvido durante os estudos de timezones em C#.
 
-#### [Bando de Dados para Gestão de Lojas](https://github.com/tallis-azevedo/uvv_bd1_CC1M)
+#### [Banco de Dados para Gestão de Lojas](https://github.com/tallis-azevedo/uvv_bd1_CC1M)
 > Banco de dados criado com a finalidade de englobar operações físicas e online para gestão de uma loja.
 > Projeto desenvolvido durante o semestre da matéria de Desenvolvimento de Banco de dados. Nesse projeto foi utilizado o **SQL Power Architect** para construir tabelas, editar colunas e criar comentários.
 
