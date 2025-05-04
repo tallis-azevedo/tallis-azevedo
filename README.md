@@ -33,7 +33,7 @@
 ---
 
 ### 📚 Em estudos
-> ASP.Net/Blazor
+> HTML | CSS | JS
 
 ---
 
