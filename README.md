@@ -1,7 +1,5 @@
 # 👋 Olá! Me chamo Tallis Azevedo.
 
-### Backend Software Developer | C# | .Net Framework | SQL
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
