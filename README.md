@@ -1,7 +1,5 @@
 # 👋 Olá! Me chamo Tallis Azevedo.
 
----
-
 ### 🤖 Linguagens e Tecnologias
 <img 
     alt="C#"
